@@ -21,7 +21,7 @@ body {
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
-		background: $white;
+		background: $black;
 	}
 }
 * {
@@ -70,12 +70,12 @@ body {
 	align-items: center;
 }
 .container {
-	width: 36rem;
-	max-width: 550px;
+	width: 60rem;
+	max-width: 550rem;
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
+	background-color: transparent;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -86,7 +86,7 @@ body {
 	    box-shadow: none;
 	}
 	@media #{$medium} {
-		width: 80%;
+		width: 100%;
 	}
 }
 .row {
