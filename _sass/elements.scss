@@ -13,8 +13,9 @@
 	}
 }
 .social-btn {
-	padding: 10px;
-	margin: 10px;
+	padding: 5px;
+	margin: 20px;
+	border-radius: 50%;
 	@extend %btnextend;
 }
 .btn {
@@ -168,7 +169,7 @@ figure {
   }
 }
 svg:not(:root) {
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 // keyboard tag
