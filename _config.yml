@@ -1,10 +1,10 @@
 # Site
 title: The Distentangled Company
 bio: "Stay tuned... It'll be worth the wait."
-description: "Stay tuned... It'll be worth the wait."
+description: "Stay tuned... It'll be worth the wait"
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.jpg"
+logo: "assets/img/logo.gif"
 background: "assets/img/placeholder-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
